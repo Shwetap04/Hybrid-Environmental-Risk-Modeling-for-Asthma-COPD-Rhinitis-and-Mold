@@ -1,5 +1,5 @@
 
-```md
+
 # AI-Powered Environmental Allergy Risk Assessment
 
 A practical ML system that estimates environmental allergy risk from weather + air-quality signals, supports city-level forecasting, and adds disease-specific signals (asthma, COPD, rhinitis, mold) using external outcome datasets.
