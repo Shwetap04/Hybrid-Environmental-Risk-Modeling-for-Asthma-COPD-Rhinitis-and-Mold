@@ -176,6 +176,5 @@ It is **not** medical advice. For symptoms or treatment, consult a licensed clin
 
 ## Author
 
-Shweta  
-Final Year Project — AI & Data Science Engineering
-```
+Shweta
+Final Year Project
