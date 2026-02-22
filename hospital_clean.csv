@@ -1,0 +1,102 @@
+country,iso3,city,year,admissions
+Germany,DEU,Berlin,1993,993981
+Germany,DEU,Berlin,1994,981089
+Germany,DEU,Berlin,1995,998778
+Germany,DEU,Berlin,1996,995498
+Germany,DEU,Berlin,1997,979158
+Germany,DEU,Berlin,1998,1028113
+Germany,DEU,Berlin,1999,1038234
+Germany,DEU,Berlin,2000,1005509
+Germany,DEU,Berlin,2001,1008370
+Germany,DEU,Berlin,2002,1038984
+Germany,DEU,Berlin,2003,1133426
+Germany,DEU,Berlin,2004,1085716
+Germany,DEU,Berlin,2005,1136726
+Germany,DEU,Berlin,2006,1089534
+Germany,DEU,Berlin,2007,1148460
+Germany,DEU,Berlin,2008,1149628
+Germany,DEU,Berlin,2009,1226173
+United Kingdom,GBR,London,1996,674461
+United Kingdom,GBR,London,1997,665195
+United Kingdom,GBR,London,1998,711200
+United Kingdom,GBR,London,1999,687265
+United Kingdom,GBR,London,2000,655116
+United Kingdom,GBR,London,2001,620754
+United Kingdom,GBR,London,2002,647380
+United Kingdom,GBR,London,2003,674078
+United Kingdom,GBR,London,2004,674120
+United Kingdom,GBR,London,2005,705420
+United Kingdom,GBR,London,2006,690215
+United Kingdom,GBR,London,2007,708211
+United Kingdom,GBR,London,2008,731776
+United Kingdom,GBR,London,2009,741072
+United Kingdom,GBR,London,2010,765275
+Spain,ESP,Madrid,1980,234741
+Spain,ESP,Madrid,1981,264021
+Spain,ESP,Madrid,1982,263986
+Spain,ESP,Madrid,1983,277448
+Spain,ESP,Madrid,1984,276716
+Spain,ESP,Madrid,1985,287908
+Spain,ESP,Madrid,1986,273291
+Spain,ESP,Madrid,1987,272611
+Spain,ESP,Madrid,1988,270473
+Spain,ESP,Madrid,1989,278829
+Spain,ESP,Madrid,1990,272609
+Spain,ESP,Madrid,1991,279602
+Spain,ESP,Madrid,1992,279258
+Spain,ESP,Madrid,1993,311168
+Spain,ESP,Madrid,1994,306030
+Spain,ESP,Madrid,1995,343784
+Spain,ESP,Madrid,1996,353365
+Spain,ESP,Madrid,1997,359303
+Spain,ESP,Madrid,1998,384792
+Spain,ESP,Madrid,1999,418403
+Spain,ESP,Madrid,2000,432814
+Spain,ESP,Madrid,2001,410311
+Spain,ESP,Madrid,2002,438891
+Spain,ESP,Madrid,2003,467246
+Spain,ESP,Madrid,2004,449480
+Spain,ESP,Madrid,2005,497637
+Spain,ESP,Madrid,2006,481177
+Spain,ESP,Madrid,2007,524091
+Spain,ESP,Madrid,2008,516308
+Spain,ESP,Madrid,2009,544561
+France,FRA,Paris,1997,870900
+France,FRA,Paris,1998,873200
+France,FRA,Paris,1999,845800
+France,FRA,Paris,2000,835600
+France,FRA,Paris,2001,784200
+France,FRA,Paris,2002,772300
+France,FRA,Paris,2003,767900
+France,FRA,Paris,2004,759500
+France,FRA,Paris,2005,816600
+France,FRA,Paris,2006,778100
+France,FRA,Paris,2007,775100
+France,FRA,Paris,2008,768300
+France,FRA,Paris,2009,800500
+Italy,ITA,Rome,1982,749731
+Italy,ITA,Rome,1984,725719
+Italy,ITA,Rome,1986,750236
+Italy,ITA,Rome,1987,723997
+Italy,ITA,Rome,1988,672945
+Italy,ITA,Rome,1989,665317
+Italy,ITA,Rome,1990,656954
+Italy,ITA,Rome,1991,685669
+Italy,ITA,Rome,1992,716788
+Italy,ITA,Rome,1993,724962
+Italy,ITA,Rome,1994,737103
+Italy,ITA,Rome,1995,629500
+Italy,ITA,Rome,1996,565296
+Italy,ITA,Rome,1997,667734
+Italy,ITA,Rome,1998,703024
+Italy,ITA,Rome,1999,713730
+Italy,ITA,Rome,2000,694828
+Italy,ITA,Rome,2001,662767
+Italy,ITA,Rome,2002,672739
+Italy,ITA,Rome,2003,672052
+Italy,ITA,Rome,2004,641013
+Italy,ITA,Rome,2005,660441
+Italy,ITA,Rome,2006,627068
+Italy,ITA,Rome,2007,618250
+Italy,ITA,Rome,2008,608057
+Italy,ITA,Rome,2009,624416

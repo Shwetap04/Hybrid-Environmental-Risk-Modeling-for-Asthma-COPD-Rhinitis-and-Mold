@@ -1,0 +1,5 @@
+disease,n_rows,n_city_period,n_sources,spearman_outcome_vs_pollution,spearman_outcome_vs_pollen,spearman_outcome_vs_weather_risk
+asthma,3,3,2,0.5,-0.8660254037844387,1.0
+copd,4,4,2,0.19999999999999998,0.316227766016838,0.39999999999999997
+mold,7,7,1,-0.12848904218751167,,-0.9177788727679405
+rhinitis,11,11,1,-0.14301938838683884,,-0.49262233777688935

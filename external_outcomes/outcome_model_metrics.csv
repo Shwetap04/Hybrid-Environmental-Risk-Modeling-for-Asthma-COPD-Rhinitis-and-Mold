@@ -1,0 +1,5 @@
+disease,n_rows,status,mae_loocv,rmse_loocv,model_path
+asthma,3,trained,0.03456206223387829,0.03526752563927388,C:\Users\Shweta\Documents\AI-Powered-Environmental-Allergy-Risk-Level-Assessment-Model-main\final project\external_outcomes\models_by_disease\asthma_linear_model.pkl
+copd,4,trained,0.6357728162068641,0.6396344964385551,C:\Users\Shweta\Documents\AI-Powered-Environmental-Allergy-Risk-Level-Assessment-Model-main\final project\external_outcomes\models_by_disease\copd_linear_model.pkl
+mold,7,trained,0.6560769255460878,0.7664043681212669,C:\Users\Shweta\Documents\AI-Powered-Environmental-Allergy-Risk-Level-Assessment-Model-main\final project\external_outcomes\models_by_disease\mold_linear_model.pkl
+rhinitis,11,trained,2.8049163310247014,3.3884231409798264,C:\Users\Shweta\Documents\AI-Powered-Environmental-Allergy-Risk-Level-Assessment-Model-main\final project\external_outcomes\models_by_disease\rhinitis_linear_model.pkl

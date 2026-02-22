@@ -1,0 +1,27 @@
+{
+  "environment_file": "C:\\Users\\Shweta\\Documents\\AI-Powered-Environmental-Allergy-Risk-Level-Assessment-Model-main\\final project\\openmeteo_2023_2025_merged.csv",
+  "outcome_file": "C:\\Users\\Shweta\\Documents\\AI-Powered-Environmental-Allergy-Risk-Level-Assessment-Model-main\\final project\\external_outcomes\\outcomes_master_by_disease_raw.csv",
+  "aligned_long_shape": [
+    25,
+    37
+  ],
+  "aligned_wide_shape": [
+    16,
+    33
+  ],
+  "cities_in_aligned": [
+    "London",
+    "Los Angeles",
+    "Mexico City"
+  ],
+  "diseases_in_aligned": [
+    "asthma",
+    "copd",
+    "mold",
+    "rhinitis"
+  ],
+  "period_range_in_aligned": [
+    "2023-01-01",
+    "2024-12-01"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "feature_columns": [
+    "risk_lag1",
+    "risk_lag2",
+    "risk_lag3",
+    "risk_lag4",
+    "risk_lag5",
+    "risk_lag6",
+    "risk_lag7",
+    "risk_lag8",
+    "risk_lag9",
+    "risk_lag10",
+    "risk_lag11",
+    "risk_lag12",
+    "risk_lag13",
+    "risk_lag14",
+    "risk_lag15",
+    "risk_lag16",
+    "risk_lag17",
+    "risk_lag18",
+    "risk_lag19",
+    "risk_lag20",
+    "risk_lag21",
+    "risk_lag22",
+    "risk_lag23",
+    "risk_lag24",
+    "risk_roll3",
+    "risk_roll6",
+    "risk_roll12",
+    "risk_roll24",
+    "hour",
+    "day_of_week",
+    "month",
+    "city_Madrid"
+  ],
+  "city_dummy_columns": [
+    "city_Madrid"
+  ],
+  "base_model_type": "regressor",
+  "base_model_file": "allergy_lgbm_regressor.pkl"
+}

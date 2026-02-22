@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit/local secrets
+.streamlit/secrets.toml
+
+# Large/generated model artifacts
+*.pkl
+*.joblib
+
+# Generated data/results
+allergy_predictions.csv
+openmeteo_*.csv
+risk_forecast_plot_*.png
+external_outcomes/raw/
+external_outcomes/*_raw.csv
