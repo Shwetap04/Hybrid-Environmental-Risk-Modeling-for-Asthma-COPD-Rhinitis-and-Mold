@@ -1,0 +1,350 @@
+city,country,iso3,date,disease,indicator,outcome_value,outcome_unit,outcome_type,geo_level,source
+Athens,Greece,GRC,2007-01-01,copd,J40-J44_J47,251.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Athens,Greece,GRC,2008-01-01,copd,J40-J44_J47,236.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Athens,Greece,GRC,2009-01-01,copd,J40-J44_J47,230.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Athens,Greece,GRC,2010-01-01,copd,J40-J44_J47,230.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Athens,Greece,GRC,2011-01-01,copd,J40-J44_J47,223.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Athens,Greece,GRC,2012-01-01,copd,J40-J44_J47,211.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Athens,Greece,GRC,2013-01-01,asthma,J45_J46,30.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Athens,Greece,GRC,2013-01-01,copd,J40-J44_J47,126.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Athens,Greece,GRC,2014-01-01,asthma,J45_J46,29.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Athens,Greece,GRC,2014-01-01,copd,J40-J44_J47,129.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Athens,Greece,GRC,2015-01-01,asthma,J45_J46,27.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Athens,Greece,GRC,2015-01-01,copd,J40-J44_J47,126.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2000-01-01,asthma,J45_J46,56.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2000-01-01,copd,J40-J44_J47,181.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2001-01-01,asthma,J45_J46,46.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2001-01-01,copd,J40-J44_J47,174.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2002-01-01,asthma,J45_J46,43.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2002-01-01,copd,J40-J44_J47,184.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2003-01-01,asthma,J45_J46,68.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2003-01-01,copd,J40-J44_J47,231.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2004-01-01,asthma,J45_J46,67.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2004-01-01,copd,J40-J44_J47,221.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2005-01-01,asthma,J45_J46,62.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2005-01-01,copd,J40-J44_J47,240.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2006-01-01,asthma,J45_J46,65.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2006-01-01,copd,J40-J44_J47,227.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2007-01-01,asthma,J45_J46,67.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2007-01-01,copd,J40-J44_J47,254.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2008-01-01,asthma,J45_J46,66.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2008-01-01,copd,J40-J44_J47,261.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2009-01-01,asthma,J45_J46,65.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2009-01-01,copd,J40-J44_J47,283.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2010-01-01,asthma,J45_J46,64.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2010-01-01,copd,J40-J44_J47,276.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2011-01-01,asthma,J45_J46,59.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2011-01-01,copd,J40-J44_J47,287.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2012-01-01,asthma,J45_J46,61.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2012-01-01,copd,J40-J44_J47,298.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2013-01-01,asthma,J45_J46,64.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2013-01-01,copd,J40-J44_J47,336.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2014-01-01,asthma,J45_J46,66.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2014-01-01,copd,J40-J44_J47,321.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2015-01-01,asthma,J45_J46,64.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2015-01-01,copd,J40-J44_J47,352.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2016-01-01,asthma,J45_J46,65.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2016-01-01,copd,J40-J44_J47,342.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2017-01-01,asthma,J45_J46,64.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2017-01-01,copd,J40-J44_J47,360.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2018-01-01,asthma,J45_J46,63.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2018-01-01,copd,J40-J44_J47,348.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2019-01-01,asthma,J45_J46,65.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2019-01-01,copd,J40-J44_J47,346.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2020-01-01,asthma,J45_J46,42.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2020-01-01,copd,J40-J44_J47,245.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2021-01-01,asthma,J45_J46,41.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Berlin,Germany,DEU,2021-01-01,copd,J40-J44_J47,222.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2004-01-01,asthma,J45_J46,242.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2004-01-01,copd,J40-J44_J47,408.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2005-01-01,asthma,J45_J46,235.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2005-01-01,copd,J40-J44_J47,435.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2006-01-01,asthma,J45_J46,202.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2006-01-01,copd,J40-J44_J47,403.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2007-01-01,asthma,J45_J46,142.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2007-01-01,copd,J40-J44_J47,348.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2008-01-01,asthma,J45_J46,135.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2008-01-01,copd,J40-J44_J47,361.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2009-01-01,asthma,J45_J46,132.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2009-01-01,copd,J40-J44_J47,380.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2010-01-01,asthma,J45_J46,129.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2010-01-01,copd,J40-J44_J47,376.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2011-01-01,asthma,J45_J46,125.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2011-01-01,copd,J40-J44_J47,362.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2012-01-01,asthma,J45_J46,122.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2012-01-01,copd,J40-J44_J47,351.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2013-01-01,asthma,J45_J46,122.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2013-01-01,copd,J40-J44_J47,346.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2014-01-01,asthma,J45_J46,114.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2014-01-01,copd,J40-J44_J47,343.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2015-01-01,asthma,J45_J46,103.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2015-01-01,copd,J40-J44_J47,342.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2016-01-01,asthma,J45_J46,99.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2016-01-01,copd,J40-J44_J47,320.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2017-01-01,asthma,J45_J46,94.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2017-01-01,copd,J40-J44_J47,326.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2018-01-01,asthma,J45_J46,90.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2018-01-01,copd,J40-J44_J47,318.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2019-01-01,asthma,J45_J46,79.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2019-01-01,copd,J40-J44_J47,304.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2020-01-01,asthma,J45_J46,32.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2020-01-01,copd,J40-J44_J47,156.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2021-01-01,asthma,J45_J46,23.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Budapest,Hungary,HUN,2021-01-01,copd,J40-J44_J47,111.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Los Angeles,United States,USA,2011-01-01,asthma,asthma_ed_visit_rate,63.61833910034602,rate,ED visit,county,CA Open Data - Asthma ED
+Los Angeles,United States,USA,2012-01-01,asthma,asthma_ed_visit_rate,68.62248322147651,rate,ED visit,county,CA Open Data - Asthma ED
+Los Angeles,United States,USA,2013-01-01,asthma,asthma_ed_visit_rate,64.93089700996678,rate,ED visit,county,CA Open Data - Asthma ED
+Los Angeles,United States,USA,2014-01-01,asthma,asthma_ed_visit_rate,68.95185185185186,rate,ED visit,county,CA Open Data - Asthma ED
+Los Angeles,United States,USA,2015-01-01,asthma,asthma_ed_visit_rate,67.35363321799308,rate,ED visit,county,CA Open Data - Asthma ED
+Los Angeles,United States,USA,2016-01-01,asthma,asthma_ed_visit_rate,66.91338028169015,rate,ED visit,county,CA Open Data - Asthma ED
+Los Angeles,United States,USA,2017-01-01,asthma,asthma_ed_visit_rate,66.75350318471337,rate,ED visit,county,CA Open Data - Asthma ED
+Los Angeles,United States,USA,2018-01-01,asthma,asthma_ed_visit_rate,74.0248275862069,rate,ED visit,county,CA Open Data - Asthma ED
+Los Angeles,United States,USA,2019-01-01,asthma,asthma_ed_visit_rate,56.6503355704698,rate,ED visit,county,CA Open Data - Asthma ED
+Madrid,Spain,ESP,2000-01-01,asthma,J45_J46,70.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2000-01-01,copd,J40-J44_J47,244.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2001-01-01,asthma,J45_J46,59.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2001-01-01,copd,J40-J44_J47,223.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2002-01-01,asthma,J45_J46,64.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2002-01-01,copd,J40-J44_J47,231.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2003-01-01,asthma,J45_J46,67.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2003-01-01,copd,J40-J44_J47,241.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2004-01-01,asthma,J45_J46,64.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2004-01-01,copd,J40-J44_J47,217.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2005-01-01,asthma,J45_J46,64.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2005-01-01,copd,J40-J44_J47,237.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2006-01-01,asthma,J45_J46,60.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2006-01-01,copd,J40-J44_J47,181.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2007-01-01,asthma,J45_J46,57.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2007-01-01,copd,J40-J44_J47,189.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2008-01-01,asthma,J45_J46,48.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2008-01-01,copd,J40-J44_J47,186.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2009-01-01,asthma,J45_J46,47.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2009-01-01,copd,J40-J44_J47,184.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2010-01-01,asthma,J45_J46,47.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2010-01-01,copd,J40-J44_J47,175.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2011-01-01,asthma,J45_J46,44.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2011-01-01,copd,J40-J44_J47,177.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2012-01-01,asthma,J45_J46,52.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2012-01-01,copd,J40-J44_J47,176.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2013-01-01,asthma,J45_J46,53.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2013-01-01,copd,J40-J44_J47,169.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2014-01-01,asthma,J45_J46,54.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2014-01-01,copd,J40-J44_J47,174.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2015-01-01,asthma,J45_J46,57.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2015-01-01,copd,J40-J44_J47,179.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2016-01-01,asthma,J45_J46,49.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2016-01-01,copd,J40-J44_J47,212.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2017-01-01,asthma,J45_J46,48.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2017-01-01,copd,J40-J44_J47,217.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2018-01-01,asthma,J45_J46,49.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2018-01-01,copd,J40-J44_J47,235.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2019-01-01,asthma,J45_J46,44.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2019-01-01,copd,J40-J44_J47,220.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2020-01-01,asthma,J45_J46,26.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2020-01-01,copd,J40-J44_J47,148.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2021-01-01,asthma,J45_J46,25.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Madrid,Spain,ESP,2021-01-01,copd,J40-J44_J47,128.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Mexico City,Mexico,MEX,2024-01-09,rhinitis,J31.2,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-01-13,rhinitis,J31.1,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-01-19,rhinitis,J30.1,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-02-09,mold,B44.0,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-02-26,rhinitis,J30.4,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-03-25,mold,B44.1,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-04-19,rhinitis,J30.4,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-05-03,mold,J67.8,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-05-14,mold,B44.0,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-05-26,rhinitis,J31.2,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-06-07,mold,J67.8,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-06-14,mold,J67.8,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-06-14,rhinitis,J30.4,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-06-27,mold,B44.0,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-07-02,mold,J67.8,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-07-05,mold,J67.8,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-07-05,rhinitis,J31.1,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-07-10,rhinitis,J31.0,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-07-16,mold,B44.0,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-07-27,mold,J67.2,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-07-29,mold,J67.8,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-08-05,mold,B44.0 | J67.8,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-08-10,mold,J67.8,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-08-14,mold,J67.8,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-08-18,mold,J67.8,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-08-30,rhinitis,J31.2,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-09-03,rhinitis,J30.3,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-09-14,rhinitis,J31.2,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-09-17,rhinitis,J30.4,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-10-08,rhinitis,J31.0,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-10-21,rhinitis,J31.2,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-11-24,rhinitis,J30.4,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-12-02,mold,J67.8,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-12-06,rhinitis,J31.0,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-12-08,mold,J67.7,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Mexico City,Mexico,MEX,2024-12-18,mold,J67.9,1.0,count,hospital discharge,state_proxy,Mexico ISSSTE Egresos
+Paris,France,FRA,2000-01-01,asthma,J45_J46,86.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2000-01-01,copd,J40-J44_J47,85.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2001-01-01,asthma,J45_J46,79.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2001-01-01,copd,J40-J44_J47,75.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2002-01-01,asthma,J45_J46,71.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2002-01-01,copd,J40-J44_J47,78.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2003-01-01,asthma,J45_J46,64.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2003-01-01,copd,J40-J44_J47,77.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2004-01-01,asthma,J45_J46,64.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2004-01-01,copd,J40-J44_J47,73.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2005-01-01,asthma,J45_J46,64.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2005-01-01,copd,J40-J44_J47,81.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2006-01-01,asthma,J45_J46,67.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2006-01-01,copd,J40-J44_J47,78.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2007-01-01,asthma,J45_J46,63.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2007-01-01,copd,J40-J44_J47,83.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2008-01-01,asthma,J45_J46,64.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2008-01-01,copd,J40-J44_J47,87.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2009-01-01,asthma,J45_J46,65.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2009-01-01,copd,J40-J44_J47,93.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2010-01-01,asthma,J45_J46,68.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2010-01-01,copd,J40-J44_J47,97.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2011-01-01,asthma,J45_J46,66.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2011-01-01,copd,J40-J44_J47,107.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2012-01-01,asthma,J45_J46,74.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2012-01-01,copd,J40-J44_J47,121.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2013-01-01,asthma,J45_J46,71.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2013-01-01,copd,J40-J44_J47,129.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2014-01-01,asthma,J45_J46,77.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2014-01-01,copd,J40-J44_J47,127.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2015-01-01,asthma,J45_J46,74.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2015-01-01,copd,J40-J44_J47,137.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2016-01-01,asthma,J45_J46,83.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2016-01-01,copd,J40-J44_J47,140.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2017-01-01,asthma,J45_J46,76.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2017-01-01,copd,J40-J44_J47,138.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2018-01-01,asthma,J45_J46,77.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2018-01-01,copd,J40-J44_J47,143.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2019-01-01,asthma,J45_J46,70.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2019-01-01,copd,J40-J44_J47,140.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2020-01-01,asthma,J45_J46,55.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2020-01-01,copd,J40-J44_J47,102.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2021-01-01,asthma,J45_J46,70.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Paris,France,FRA,2021-01-01,copd,J40-J44_J47,95.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2001-01-01,asthma,J45_J46,51.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2001-01-01,copd,J40-J44_J47,229.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2002-01-01,asthma,J45_J46,48.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2002-01-01,copd,J40-J44_J47,225.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2003-01-01,asthma,J45_J46,43.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2003-01-01,copd,J40-J44_J47,227.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2004-01-01,asthma,J45_J46,40.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2004-01-01,copd,J40-J44_J47,207.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2005-01-01,asthma,J45_J46,38.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2005-01-01,copd,J40-J44_J47,210.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2006-01-01,asthma,J45_J46,35.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2006-01-01,copd,J40-J44_J47,178.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2007-01-01,asthma,J45_J46,30.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2007-01-01,copd,J40-J44_J47,169.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2008-01-01,asthma,J45_J46,31.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2008-01-01,copd,J40-J44_J47,157.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2009-01-01,asthma,J45_J46,25.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2009-01-01,copd,J40-J44_J47,148.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2010-01-01,asthma,J45_J46,25.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2010-01-01,copd,J40-J44_J47,133.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2011-01-01,asthma,J45_J46,20.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2011-01-01,copd,J40-J44_J47,117.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2012-01-01,asthma,J45_J46,19.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2012-01-01,copd,J40-J44_J47,108.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2013-01-01,asthma,J45_J46,17.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2013-01-01,copd,J40-J44_J47,95.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2014-01-01,asthma,J45_J46,15.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2014-01-01,copd,J40-J44_J47,86.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2015-01-01,asthma,J45_J46,13.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2015-01-01,copd,J40-J44_J47,82.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2016-01-01,asthma,J45_J46,14.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2016-01-01,copd,J40-J44_J47,75.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2017-01-01,asthma,J45_J46,11.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2017-01-01,copd,J40-J44_J47,70.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2018-01-01,asthma,J45_J46,11.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2018-01-01,copd,J40-J44_J47,63.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2019-01-01,asthma,J45_J46,9.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2019-01-01,copd,J40-J44_J47,56.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2020-01-01,asthma,J45_J46,4.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2020-01-01,copd,J40-J44_J47,30.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2021-01-01,asthma,J45_J46,4.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Rome,Italy,ITA,2021-01-01,copd,J40-J44_J47,28.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2000-01-01,asthma,J45_J46,340.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2000-01-01,copd,J40-J44_J47,203.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2001-01-01,asthma,J45_J46,87.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2001-01-01,copd,J40-J44_J47,339.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2002-01-01,asthma,J45_J46,71.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2002-01-01,copd,J40-J44_J47,335.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2003-01-01,asthma,J45_J46,67.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2003-01-01,copd,J40-J44_J47,338.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2004-01-01,asthma,J45_J46,68.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2004-01-01,copd,J40-J44_J47,337.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2005-01-01,asthma,J45_J46,65.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2005-01-01,copd,J40-J44_J47,342.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2006-01-01,asthma,J45_J46,64.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2006-01-01,copd,J40-J44_J47,323.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2007-01-01,asthma,J45_J46,63.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2007-01-01,copd,J40-J44_J47,344.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2008-01-01,asthma,J45_J46,57.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2008-01-01,copd,J40-J44_J47,354.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2009-01-01,asthma,J45_J46,59.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2009-01-01,copd,J40-J44_J47,353.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2010-01-01,asthma,J45_J46,63.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2010-01-01,copd,J40-J44_J47,352.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2011-01-01,asthma,J45_J46,56.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2011-01-01,copd,J40-J44_J47,343.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2012-01-01,asthma,J45_J46,52.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2012-01-01,copd,J40-J44_J47,341.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2013-01-01,asthma,J45_J46,48.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2013-01-01,copd,J40-J44_J47,339.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2014-01-01,asthma,J45_J46,49.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2014-01-01,copd,J40-J44_J47,325.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2015-01-01,asthma,J45_J46,47.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2015-01-01,copd,J40-J44_J47,336.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2016-01-01,asthma,J45_J46,47.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2016-01-01,copd,J40-J44_J47,318.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2017-01-01,asthma,J45_J46,45.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2017-01-01,copd,J40-J44_J47,325.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2018-01-01,asthma,J45_J46,45.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2018-01-01,copd,J40-J44_J47,292.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2019-01-01,asthma,J45_J46,46.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2019-01-01,copd,J40-J44_J47,279.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2020-01-01,asthma,J45_J46,30.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2020-01-01,copd,J40-J44_J47,190.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2021-01-01,asthma,J45_J46,27.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Vienna,Austria,AUT,2021-01-01,copd,J40-J44_J47,171.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2003-01-01,asthma,J45_J46,93.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2003-01-01,copd,J40-J44_J47,307.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2004-01-01,asthma,J45_J46,87.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2004-01-01,copd,J40-J44_J47,294.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2005-01-01,asthma,J45_J46,76.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2005-01-01,copd,J40-J44_J47,244.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2006-01-01,asthma,J45_J46,79.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2006-01-01,copd,J40-J44_J47,236.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2007-01-01,asthma,J45_J46,81.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2007-01-01,copd,J40-J44_J47,235.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2008-01-01,asthma,J45_J46,87.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2008-01-01,copd,J40-J44_J47,206.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2009-01-01,asthma,J45_J46,92.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2009-01-01,copd,J40-J44_J47,193.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2010-01-01,asthma,J45_J46,89.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2010-01-01,copd,J40-J44_J47,168.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2011-01-01,asthma,J45_J46,87.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2011-01-01,copd,J40-J44_J47,165.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2012-01-01,asthma,J45_J46,94.3,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2012-01-01,copd,J40-J44_J47,156.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2013-01-01,asthma,J45_J46,98.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2013-01-01,copd,J40-J44_J47,159.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2014-01-01,asthma,J45_J46,98.7,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2014-01-01,copd,J40-J44_J47,144.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2015-01-01,asthma,J45_J46,93.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2015-01-01,copd,J40-J44_J47,138.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2016-01-01,asthma,J45_J46,103.8,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2016-01-01,copd,J40-J44_J47,141.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2017-01-01,asthma,J45_J46,101.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2017-01-01,copd,J40-J44_J47,135.1,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2018-01-01,asthma,J45_J46,92.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2018-01-01,copd,J40-J44_J47,119.2,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2019-01-01,asthma,J45_J46,82.5,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2019-01-01,copd,J40-J44_J47,109.6,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2020-01-01,asthma,J45_J46,44.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2020-01-01,copd,J40-J44_J47,58.4,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2021-01-01,asthma,J45_J46,41.9,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
+Warsaw,Poland,POL,2021-01-01,copd,J40-J44_J47,50.0,P_HTHAB,hospital discharge,country_proxy,Eurostat hlth_co_disch2
